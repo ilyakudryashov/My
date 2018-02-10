@@ -9,5 +9,5 @@ print(current_day)
 print(current_month)
 print(current_year)
 
-# Дата в дургом формате rgrtrtrt
+# Дата в дургом формате rgrtrtrth
 print('%s-%s-%s' % (now.month, now.day, now.year))
