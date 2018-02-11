@@ -18,3 +18,4 @@ print(now.second)
 
 # Дата в дургом формате
 print('%s-%s-%s' % (now.month, now.day, now.year))
+print('%s/%s/%s %s:%s:%s' % (now.month, now.day, now.year, now.hour, now.minute, now.second))
